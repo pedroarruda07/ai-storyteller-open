@@ -3,7 +3,7 @@
 
 This repository is an **open version of the project** used to create the published app **InkFlow**, available on [Google Play](https://play.google.com/store/apps/details?id=com.blomstapps.inkflow). InkFlow is an Android application that combines **Large Language Models (LLMs)** and **text-to-image diffusion models** to generate creative stories and matching illustrations.
 
-It is intended as a **portfolio and educational showcase**, demonstrating how Generative AI can be integrated into a modern mobile architecture built with Flutter.
+It is intended as a **portfolio and educational showcase**, demonstrating how Generative AI can be integrated into a modern mobile architecture built with Flutter and documenting one of my first experiences with Generative AI.
 
 
 
@@ -66,16 +66,16 @@ Below are screenshots showcasing some of the app’s interface and main features
 
 ## 💡 Future Development Directions
 
-* Story continuation and editing interface
-* Cloud synchronization across devices
-* Integrated text-to-speech narration
-* Style-tuned diffusion pipelines for consistent illustration aesthetics
+* ✍️ Story editing features 
+* ☁️ Cloud sync with user accounts 
+* 🗣️ Voice narration via text-to-speech
+
 
 
 
 ## 👥 About
 
-- **Developer:** BlomstApps (Pedro Arruda)
+- **Developer:** Pedro Arruda (BlomstApps in Google Play)
 - **Focus Areas:** Generative AI, mobile systems, and human-AI creative interaction
 - **Technologies:** Flutter, Python/FastAPI, Google AI, Stability AI, Fly.io
 
