@@ -1,0 +1,137 @@
+{
+  "home": "Home",
+  "my_stories": "My Stories",
+  "settings": "Settings",
+
+  "welcome_to": "Welcome to",
+  "welcome_description": "Try different ideas, see what works best and have fun!",
+  "welcome_description2": "Please contact us in the settings page if you detect any issue with the app or if you want to suggest a new feature.",
+  "get_started": "Get Started!",
+
+  "create_story_title": "Create a New Story",
+
+  "select": "Select a",
+
+  "style": "Cover Style",
+  "cartoon": "Cartoon",
+  "fantasy": "Fantasy",
+  "realistic": "Realistic",
+  "painting": "Painting",
+  "anime": "Anime",
+  "comics": "Comics",
+  "cyberpunk": "Cyberpunk",
+
+  "set_story_size": "Set Story Size",
+  "short": "Short",
+  "medium": "Medium",
+  "long": "Long",
+
+  "genre": "Genre",
+  "genre1": "Fantasy",
+  "genre2": "Action",
+  "genre3": "Mystery",
+  "genre4": "Sci-Fi",
+  "genre5": "Thriller",
+  "genre6": "Drama",
+  "genre7": "Romance",
+
+  "random": "Random",
+
+  "theme": "Theme",
+  "theme1": "Love",
+  "theme2": "Family",
+  "theme3": "Friendship",
+  "theme4": "Hero",
+  "theme5": "Revenge",
+  "theme6": "Good versus evil",
+  "theme7": "Justice",
+  "theme8": "Power",
+  "theme9": "Faith",
+
+  "optional": "(optional)",
+  "characters": "Characters",
+  "add_more": "Add More",
+  "main_character": "Main Character",
+  "character": "Character",
+  "the_dragon": "the fierce dragon",
+
+  "story_plot": "Story Plot",
+  "description": "Write a brief (family-friendly) description of your story",
+
+  "story_setting": "Story Setting",
+  "describe": "Describe where your story is set",
+  "forest": "An ancient, enchanted forest with mystical animals",
+  "kids": "Kids story mode?",
+  "kids_info": "Specially made for younger audiences. Perfect for bedtime stories!",
+
+  "create_button": "Create Story",
+
+  "general": "General",
+  "dark_mode": "Dark Mode",
+  "language": "Language",
+  "select_language": "Select Language",
+  "subscription": "Subscription",
+  "about": "About",
+  "terms_conditions": "Terms and Conditions",
+  "privacy_policy": "Privacy Policy",
+  "contact_us": "Contact Us",
+
+  "error_wrong": "Something went wrong!",
+  "try_again": "Please try again.",
+  "error_internet": "Please make sure you are connected to the internet and try again.",
+  "max_characters": "Maximum number of characters reached!",
+  "increase_size": "Increase story size to long for more characters!",
+
+  "remove_story": "Remove Story",
+  "sure_remove": "Are you sure you want to remove this story?",
+  "yes": "Yes",
+  "cancel": "Cancel",
+  "story_removed": "Story removed from your stories!",
+  "failed_remove": "Failed to remove story! ",
+  "story_added": "Story added to your stories!",
+  "failed_save": "Failed to save story! ",
+
+  "story_options": "Story Options",
+  "story_options_desc": "Here you can save and export your story",
+
+  "save_story": "Save Story",
+  "export_pdf": "Export as PDF",
+  "copy": "Copy to Clipboard",
+
+  "close": "Close",
+
+  "unlock_premium": "Unlock Premium",
+  "faster": "Faster Generation",
+  "ad_free": "Ad-Free Experience",
+  "monthly": "Monthly",
+  "yearly": "Yearly",
+  "month": "month",
+  "year": "year",
+  "continue_": "Continue",
+  "save": "Save",
+
+  "words": "words",
+  "restore": "Restore",
+  "manage_subscription": "Manage Subscription",
+
+  "monthly_premium": "Monthly Premium",
+  "yearly_premium": "Yearly Premium",
+  "cancel_subscription": "Cancel Subscription",
+  "error_launch": "Could not launch page.",
+  "change_plan": "Change Subscription Plan",
+  "next_billing": "Next Billing Date:",
+  "current_plan": "Current Plan",
+  "cant_restore": "Can't restore subscription. Please contact us if you believe this is a mistake.",
+  "restored": "Subscription successfully restored!",
+  "unknown_error": "An unknown error occurred. Please try again another time.",
+  "purchase_cancelled": "Purchase Cancelled.",
+  "sub_activated": "Subscription successfully activated!",
+  "confirm_cancel": "Are you sure you want to cancel your subscription?",
+  "already_sub": "You are already subscribed to this plan!",
+  "billing": "Recurring billing, cancel anytime.",
+  "sub_info": "Payment will be charged to your Google Play account at confirmation of purchase. Subscriptions renew automatically for the same applicable term and price, unless you cancel at least 24 hours before the end of your current term. You may cancel anytime in Google Play. You can go to [Settings] -> [Manage Subscription] -> [Cancel Subscription] to open the Google Play subscriptions page."
+
+
+
+
+}

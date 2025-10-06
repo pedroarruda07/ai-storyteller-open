@@ -1,0 +1,74 @@
+name: frontend_flutter
+description: "flutter app for ai storyteller"
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.1+3
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  http: ^1.2.2
+  auto_size_text: ^3.0.0
+  loader_overlay: ^4.0.1
+  url_launcher: ^6.1.14
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  intl: ^0.18.1
+  google_fonts: ^6.2.1
+  carousel_slider: ^5.0.0
+  pdf: ^3.11.1
+  printing: ^5.12.0
+  shared_preferences: ^2.2.3
+  provider: ^6.1.2
+  country_flags: ^3.0.0
+  image: ^4.0.15
+  google_mobile_ads: ^5.1.0
+  showcaseview: ^3.0.0
+  translator: ^1.0.0
+  purchases_flutter: ^8.1.3
+  flutter_secure_storage: ^9.2.2
+  flutter_dotenv: ^5.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+  hive_generator: ^2.0.0
+  build_runner: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/app_icon.png"
+
+flutter_native_splash:
+  color: "#15171c"
+  image: "assets/app_splash.png"
+  android: true
+  ios: true
+  web: false
+  android_12:
+    color: "#15171c"
+    image: "assets/app_splash.png"
+
+
+flutter:
+
+  generate: true
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/covers/
+    - .env
+
